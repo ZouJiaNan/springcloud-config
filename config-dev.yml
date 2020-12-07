@@ -1,1 +1,2 @@
-hello there is github config server
+config:
+  info: "version=1"
