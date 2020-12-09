@@ -1,2 +1,2 @@
-server:
-  info: "this is a info from github version1.1"
+spring:
+  info: "version1.1"
